@@ -126,6 +126,25 @@ function App() {
           </Button>
         </div>
       </div>
+      <div className="credits">
+        A challenge by &nbsp;
+        <a
+          href="https://www.greatfrontend.com/projects?ref=challenges"
+          target="_blank"
+          rel="noreferrer"
+        >
+          GreatFrontEnd Projects
+        </a>
+        . Built by &nbsp;
+        <a
+          href="https://www.greatfrontend.com/projects/u/yuva0"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Tanuj Sengupta
+        </a>
+        .
+      </div>
     </div>
   );
 }
