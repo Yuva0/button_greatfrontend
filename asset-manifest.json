@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/button_greatfrontend/static/css/main.70df9950.css",
+    "main.js": "/button_greatfrontend/static/js/main.38abd23e.js",
+    "static/js/453.3210f8a7.chunk.js": "/button_greatfrontend/static/js/453.3210f8a7.chunk.js",
+    "index.html": "/button_greatfrontend/index.html",
+    "main.70df9950.css.map": "/button_greatfrontend/static/css/main.70df9950.css.map",
+    "main.38abd23e.js.map": "/button_greatfrontend/static/js/main.38abd23e.js.map",
+    "453.3210f8a7.chunk.js.map": "/button_greatfrontend/static/js/453.3210f8a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70df9950.css",
+    "static/js/main.38abd23e.js"
+  ]
+}
