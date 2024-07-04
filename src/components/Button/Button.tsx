@@ -26,7 +26,7 @@ const Button = ({
   disabled,
 }: ButtonProps) => {
   return isIcon ? (
-    <button className={`icon-btn btn-${size} btn-${variant} `}>
+    <button aria-label="icon button" className={`icon-btn btn-${size} btn-${variant} `}>
       {children}
     </button>
   ) : (
